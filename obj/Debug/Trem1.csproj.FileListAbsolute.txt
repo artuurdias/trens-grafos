@@ -1,0 +1,40 @@
+C:\COTUCA\4° Semestre\Estruturas de Dados II\Trem1\bin\Debug\Trem1.exe.config
+C:\COTUCA\4° Semestre\Estruturas de Dados II\Trem1\bin\Debug\Trem1.exe
+C:\COTUCA\4° Semestre\Estruturas de Dados II\Trem1\bin\Debug\Trem1.pdb
+C:\COTUCA\4° Semestre\Estruturas de Dados II\Trem1\obj\Debug\Trem1.csproj.AssemblyReference.cache
+C:\COTUCA\4° Semestre\Estruturas de Dados II\Trem1\obj\Debug\Trem1.frmRotasTrem.resources
+C:\COTUCA\4° Semestre\Estruturas de Dados II\Trem1\obj\Debug\Trem1.Properties.Resources.resources
+C:\COTUCA\4° Semestre\Estruturas de Dados II\Trem1\obj\Debug\Trem1.csproj.GenerateResource.cache
+C:\COTUCA\4° Semestre\Estruturas de Dados II\Trem1\obj\Debug\Trem1.csproj.CoreCompileInputs.cache
+C:\COTUCA\4° Semestre\Estruturas de Dados II\Trem1\obj\Debug\Trem1.exe
+C:\COTUCA\4° Semestre\Estruturas de Dados II\Trem1\obj\Debug\Trem1.pdb
+C:\temp\Trem1\bin\Debug\Trem1.exe.config
+C:\temp\Trem1\bin\Debug\Trem1.exe
+C:\temp\Trem1\bin\Debug\Trem1.pdb
+C:\temp\Trem1\obj\Debug\Trem1.csproj.AssemblyReference.cache
+C:\temp\Trem1\obj\Debug\Trem1.frmRotasTrem.resources
+C:\temp\Trem1\obj\Debug\Trem1.Properties.Resources.resources
+C:\temp\Trem1\obj\Debug\Trem1.csproj.GenerateResource.cache
+C:\temp\Trem1\obj\Debug\Trem1.csproj.CoreCompileInputs.cache
+C:\temp\Trem1\obj\Debug\Trem1.exe
+C:\temp\Trem1\obj\Debug\Trem1.pdb
+C:\Users\luiza\Downloads\Trem1 (1)\Trem1\bin\Debug\Trem1.exe.config
+C:\Users\luiza\Downloads\Trem1 (1)\Trem1\bin\Debug\Trem1.exe
+C:\Users\luiza\Downloads\Trem1 (1)\Trem1\bin\Debug\Trem1.pdb
+C:\Users\luiza\Downloads\Trem1 (1)\Trem1\obj\Debug\Trem1.csproj.AssemblyReference.cache
+C:\Users\luiza\Downloads\Trem1 (1)\Trem1\obj\Debug\Trem1.frmRotasTrem.resources
+C:\Users\luiza\Downloads\Trem1 (1)\Trem1\obj\Debug\Trem1.Properties.Resources.resources
+C:\Users\luiza\Downloads\Trem1 (1)\Trem1\obj\Debug\Trem1.csproj.GenerateResource.cache
+C:\Users\luiza\Downloads\Trem1 (1)\Trem1\obj\Debug\Trem1.csproj.CoreCompileInputs.cache
+C:\Users\luiza\Downloads\Trem1 (1)\Trem1\obj\Debug\Trem1.exe
+C:\Users\luiza\Downloads\Trem1 (1)\Trem1\obj\Debug\Trem1.pdb
+C:\COTUCA\4° Semestre\Estruturas de Dados II\20124_20137_ED\Trem1\bin\Debug\Trem1.exe.config
+C:\COTUCA\4° Semestre\Estruturas de Dados II\20124_20137_ED\Trem1\bin\Debug\Trem1.exe
+C:\COTUCA\4° Semestre\Estruturas de Dados II\20124_20137_ED\Trem1\bin\Debug\Trem1.pdb
+C:\COTUCA\4° Semestre\Estruturas de Dados II\20124_20137_ED\Trem1\obj\Debug\Trem1.csproj.AssemblyReference.cache
+C:\COTUCA\4° Semestre\Estruturas de Dados II\20124_20137_ED\Trem1\obj\Debug\Trem1.frmRotasTrem.resources
+C:\COTUCA\4° Semestre\Estruturas de Dados II\20124_20137_ED\Trem1\obj\Debug\Trem1.Properties.Resources.resources
+C:\COTUCA\4° Semestre\Estruturas de Dados II\20124_20137_ED\Trem1\obj\Debug\Trem1.csproj.GenerateResource.cache
+C:\COTUCA\4° Semestre\Estruturas de Dados II\20124_20137_ED\Trem1\obj\Debug\Trem1.csproj.CoreCompileInputs.cache
+C:\COTUCA\4° Semestre\Estruturas de Dados II\20124_20137_ED\Trem1\obj\Debug\Trem1.exe
+C:\COTUCA\4° Semestre\Estruturas de Dados II\20124_20137_ED\Trem1\obj\Debug\Trem1.pdb
